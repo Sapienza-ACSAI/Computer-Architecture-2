@@ -1,4 +1,4 @@
-<h1>Computer Architecture 2</h1>
+<h1 align="center">Computer Architecture 2</h1>
 
 ---
 
